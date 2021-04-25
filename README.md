@@ -3,4 +3,4 @@ Rework on Katsushika Hokusai's painting かながわおきなみうら (The Grea
 
 > Stop pouring nuke waste into the oceans!
 
-![Call of Nuke](https://github.com/conmajia/call-of-nuke/blob/main/call-of-nuke.jpeg?raw=true)
+![Call of Nuke](https://github.com/conmajia/call-of-nuke/blob/main/call-of-nuke.jpg?raw=true)
